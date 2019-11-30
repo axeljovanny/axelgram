@@ -1,0 +1,14 @@
+{
+    "name": "axelgram",
+    "version": "0.1.0",
+    "description": "Comparte tus fotos en AxelGram",
+    "main": "server.js",
+    "keywords": [
+        "javascript"
+    ],
+    "author": "AxelQuintero",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
